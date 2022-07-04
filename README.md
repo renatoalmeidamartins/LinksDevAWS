@@ -15,3 +15,4 @@ Links dia 1
 - API do S3 --> https://docs.aws.amazon.com/AmazonS3/latest/API/Type_API_Reference.html
 - Repositório do AWS CLI --> https://github.com/aws/aws-cli
 - Documentação da CLI --> https://docs.aws.amazon.com/cli/latest/reference/index.html#cli-aws
+- SDKs e toolkits --> https://aws.amazon.com/tools/
