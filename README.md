@@ -16,3 +16,4 @@ Links dia 1
 - Repositório do AWS CLI --> https://github.com/aws/aws-cli
 - Documentação da CLI --> https://docs.aws.amazon.com/cli/latest/reference/index.html#cli-aws
 - SDKs e toolkits --> https://aws.amazon.com/tools/
+- Policy simulator --> https://policysim.aws.amazon.com/home/index.jsp
