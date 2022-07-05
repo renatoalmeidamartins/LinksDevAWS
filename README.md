@@ -31,4 +31,6 @@ Material e labs
 - S3 inventory --> https://docs.aws.amazon.com/AmazonS3/latest/userguide/storage-inventory.html
 - TransferUtility, classe de .Net para abstrair o multipart upload em S3 --> https://docs.aws.amazon.com/sdkfornet/v3/apidocs/items/S3/TTransferUtility.html
 - TransferManager, equivalente à acima, para Java --> https://docs.aws.amazon.com/sdk-for-java/v1/developer-guide/examples-s3-transfermanager.html
+- Dynamo Paper --> https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf
+- Patterns avançados para DynamoDB --> https://www.youtube.com/watch?v=HaEPXoXVf2k&t=10s
 - 
