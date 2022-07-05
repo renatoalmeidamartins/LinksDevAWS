@@ -33,4 +33,7 @@ Material e labs
 - TransferManager, equivalente à acima, para Java --> https://docs.aws.amazon.com/sdk-for-java/v1/developer-guide/examples-s3-transfermanager.html
 - Dynamo Paper --> https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf
 - Patterns avançados para DynamoDB --> https://www.youtube.com/watch?v=HaEPXoXVf2k&t=10s
+- Melhores práticas para DynamoDB --> https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/best-practices.html
+- Escolhendo uma boa chave de particionamento no DynamoDB --> https://aws.amazon.com/blogs/database/choosing-the-right-dynamodb-partition-key/
+- Capacidade adapativa (instantâne) --> https://aws.amazon.com/about-aws/whats-new/2019/05/amazon-dynamodb-adaptive-capacity-is-now-instant/
 - 
