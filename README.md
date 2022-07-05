@@ -28,3 +28,7 @@ Material e labs
 - Planos de remoção de suporte a acesso a buckets pelo caminho --> https://aws.amazon.com/blogs/aws/amazon-s3-path-deprecation-plan-the-rest-of-the-story/
 - Usando json como entrada para comandos da CLI (e produzindo o esqueleto de JSON) --> https://docs.aws.amazon.com/cli/latest/userguide/cli-usage-skeleton.html
 - S3 Select --> https://docs.aws.amazon.com/AmazonS3/latest/userguide/selecting-content-from-objects.html
+- S3 inventory --> https://docs.aws.amazon.com/AmazonS3/latest/userguide/storage-inventory.html
+- TransferUtility, classe de .Net para abstrair o multipart upload em S3 --> https://docs.aws.amazon.com/sdkfornet/v3/apidocs/items/S3/TTransferUtility.html
+- TransferManager, equivalente à acima, para Java --> https://docs.aws.amazon.com/sdk-for-java/v1/developer-guide/examples-s3-transfermanager.html
+- 
