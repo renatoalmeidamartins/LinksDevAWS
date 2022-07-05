@@ -22,3 +22,7 @@ Material e labs
 
 ## Links dia 2
 - Tipos de volume EBS --> https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ebs-volume-types.html
+- Anúncio do Glacier instant retrieval --> https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-s3-glacier-instant-retrieval-storage-class/
+- EBS Multi-attach --> https://aws.amazon.com/about-aws/whats-new/2020/02/ebs-multi-attach-available-provisioned-iops-ssd-volumes/
+- Preço de S3 --> https://aws.amazon.com/s3/pricing/
+- Planos de remoção de suporte a acesso a buckets pelo caminho --> https://aws.amazon.com/blogs/aws/amazon-s3-path-deprecation-plan-the-rest-of-the-story/
