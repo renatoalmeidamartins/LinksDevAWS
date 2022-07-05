@@ -17,7 +17,8 @@ Material e labs
 - Documentação da CLI --> https://docs.aws.amazon.com/cli/latest/reference/index.html#cli-aws
 - SDKs e toolkits --> https://aws.amazon.com/tools/
 - Policy simulator --> https://policysim.aws.amazon.com/home/index.jsp
-- API versions --> https://docs.aws.amazon.com/cli/latest/topic/config-vars.html#api-versions *NAO EXISTE MAIS NA CLI 2* https://docs.aws.amazon.com/cli/latest/userguide/cliv2-migration-changes.html#cliv2-migration-api-versions
+- API versions --> https://docs.aws.amazon.com/cli/latest/topic/config-vars.html#api-versions <br>
+*NAO EXISTE MAIS NA CLI 2* https://docs.aws.amazon.com/cli/latest/userguide/cliv2-migration-changes.html#cliv2-migration-api-versions
 
 
 ## Links dia 2
