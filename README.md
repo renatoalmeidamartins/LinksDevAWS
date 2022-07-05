@@ -26,3 +26,4 @@ Material e labs
 - EBS Multi-attach --> https://aws.amazon.com/about-aws/whats-new/2020/02/ebs-multi-attach-available-provisioned-iops-ssd-volumes/
 - Preço de S3 --> https://aws.amazon.com/s3/pricing/
 - Planos de remoção de suporte a acesso a buckets pelo caminho --> https://aws.amazon.com/blogs/aws/amazon-s3-path-deprecation-plan-the-rest-of-the-story/
+- Usando json como entrada para comandos da CLI (e produzindo o esqueleto de JSON) --> https://docs.aws.amazon.com/cli/latest/userguide/cli-usage-skeleton.html
