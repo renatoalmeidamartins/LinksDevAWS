@@ -38,3 +38,7 @@ Material e labs
 - Escolhendo uma boa chave de particionamento no DynamoDB --> https://aws.amazon.com/blogs/database/choosing-the-right-dynamodb-partition-key/
 - Capacidade adapativa (instantâne) --> https://aws.amazon.com/about-aws/whats-new/2019/05/amazon-dynamodb-adaptive-capacity-is-now-instant/
 - 
+## Links dia 3
+- EKS anywhere --> https://anywhere.eks.amazonaws.com/
+- Parodia de my shot com Lambda e o resto de serverless --> https://www.youtube.com/watch?v=zMua0cuhFnc
+- 
