@@ -43,3 +43,4 @@ Material e labs
 - Parodia de my shot com Lambda e o resto de serverless --> https://www.youtube.com/watch?v=zMua0cuhFnc
 - Boas praticas de desenvolvimento Lambda --> https://docs.aws.amazon.com/lambda/latest/dg/best-practices.html
 - Lambda URLs, para microservicos de função única --> https://aws.amazon.com/blogs/aws/announcing-aws-lambda-function-urls-built-in-https-endpoints-for-single-function-microservices/
+ - 12 Factor app --> https://12factor.net/
