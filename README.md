@@ -59,4 +59,5 @@ Material e labs
 - Quebrando um monolito em microserviços --> https://aws.amazon.com/getting-started/hands-on/break-monolith-app-microservices-ecs-docker-ec2/
 - Integraçoes disponíveis para Step Functions --> https://docs.aws.amazon.com/step-functions/latest/dg/connect-to-services.html
 - 10+ deploys per day, na Velocity conference 2009, quase o nascimento de Devops --> https://www.youtube.com/watch?v=LdOe18KhtT4&
+- Debug local usando SAM --> https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/serverless-sam-cli-using-debugging.html
 
