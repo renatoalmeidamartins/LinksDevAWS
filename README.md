@@ -55,5 +55,7 @@ Material e labs
 - Livro Devops Handbook --> https://www.amazon.com.br/DevOps-Handbook-World-Class-Reliability-Organizations-ebook
 - Livro Accelerate --> https://www.amazon.com.br/Accelerate-Software-Performing-Technology-Organizations
 - State of Devops Report --> https://puppet.com/blog/2021-state-of-devops-report/
-- 
+- Patter strangler fig --> https://martinfowler.com/bliki/StranglerFigApplication.html
+- Quebrando um monolito em microserviços --> https://aws.amazon.com/getting-started/hands-on/break-monolith-app-microservices-ecs-docker-ec2/
+- Integraçoes disponíveis para Step Functions --> https://docs.aws.amazon.com/step-functions/latest/dg/connect-to-services.html
 
