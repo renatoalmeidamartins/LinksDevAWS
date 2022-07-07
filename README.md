@@ -44,3 +44,16 @@ Material e labs
 - Boas praticas de desenvolvimento Lambda --> https://docs.aws.amazon.com/lambda/latest/dg/best-practices.html
 - Lambda URLs, para microservicos de função única --> https://aws.amazon.com/blogs/aws/announcing-aws-lambda-function-urls-built-in-https-endpoints-for-single-function-microservices/
  - 12 Factor app --> https://12factor.net/
+ 
+## Links dia 4
+- Repositorio do SAM --> https://github.com/aws/serverless-application-model
+- Recursos disponíveis usando SAM --> https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/sam-specification-resources-and-properties.html
+- Workshop de CDK --> https://cdkworkshop.com/
+- Construct Library ---> https://docs.aws.amazon.com/cdk/api/v2/docs/aws-construct-library.html
+- Livro phoenix project --> https://www.amazon.com.br/Phoenix-Project-DevOps-Helping-Business
+- Livro Unicorn project --> https://www.amazon.com.br/Unicorn-Project-Developers-Disruption-Thriving-ebook
+- Livro Devops Handbook --> https://www.amazon.com.br/DevOps-Handbook-World-Class-Reliability-Organizations-ebook
+- Livro Accelerate --> https://www.amazon.com.br/Accelerate-Software-Performing-Technology-Organizations
+- State of Devops Report --> https://puppet.com/blog/2021-state-of-devops-report/
+- 
+
