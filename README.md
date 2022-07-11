@@ -1,5 +1,7 @@
 # AWS Dev Accenture - Ka - Julho de 2022
 
+**Não deixem de preencher a [avaliação do curso](https://forms.office.com/Pages/ResponsePage.aspx?id=1uf3lNbwSUuFO1ExNh84aZVj3zBUggFAtD7TWj83dbJURUNRSjBEMzk3QVAzRUFCOFhQNkVFVlBZUSQlQCNjPTEkJUAjdD1n)**
+
 Minhas infos de contato:
 - renatoalmeidamartins@gmail.com
 - https://www.linkedin.com/in/renatodealmeidamartins/
