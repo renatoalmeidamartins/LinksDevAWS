@@ -2,7 +2,14 @@
 
 ## Recursos para a certificação
 - Página inicial do exame --> https://aws.amazon.com/certification/certified-developer-associate/
-- 
+-- Sample questions e exam guide são interessantes
+- No Skill builder, fazer o [AWS Certified Developer - Associate Official Practice Question Set](https://explore.skillbuilder.aws/learn/course/12484/aws-certified-developer-associate-official-practice-question-set-dva-c01-english)
+- [A Cloud Guru](https://acloudguru.com) tem bom conteúdo de laboratórios e mini-aulas
+- [Whizlabs](https://www.whizlabs.com) têm simulados de boa qualidade
+
+## Ambiente de laboratório
+- As instruções do lab (lab guide) fazem parte do seu material
+- O ambiente de lab completo está no [sandbox.zip](sandbox.zip) neste repositório. Consiste de um template CloudFormation para ser executado, e do código em Pyton, de exemplo.
 
 **Não deixem de preencher a [avaliação do curso](https://forms.office.com/Pages/ResponsePage.aspx?id=1uf3lNbwSUuFO1ExNh84aZVj3zBUggFAtD7TWj83dbJURUNRSjBEMzk3QVAzRUFCOFhQNkVFVlBZUSQlQCNjPTEkJUAjdD1n)**
 
