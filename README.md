@@ -63,3 +63,9 @@ Material e labs
 - 10+ deploys per day, na Velocity conference 2009, quase o nascimento de Devops --> https://www.youtube.com/watch?v=LdOe18KhtT4&
 - Debug local usando SAM --> https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/serverless-sam-cli-using-debugging.html
 
+## Links dia 5
+- Vantagens do uso de múltiplas contas --> https://docs.aws.amazon.com/whitepapers/latest/organizing-your-aws-environment/benefits-of-using-multiple-aws-accounts.html
+- OUs básicas sugeridas --> https://docs.aws.amazon.com/whitepapers/latest/organizing-your-aws-environment/recommended-ous.html
+- Politícas disponíveis com o uso de organizações --> https://docs.aws.amazon.com/organizations/latest/userguide/orgs_manage_policies.html
+- AWS control tower --> https://docs.aws.amazon.com/controltower/latest/userguide/what-is-control-tower.html
+
